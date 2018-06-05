@@ -20,7 +20,7 @@ The NVDA add-ons community welcomes add-on submissions from authors. Please foll
     * version (optional)
     * request for additional reviews (see below for a description of our review process).
     * statement of compliance with GPL. (This is required because NVDA is lisenced under the GPL, and your addon is running as code which is part of NVDA's process). There are some special exceptions. Please see the NVDA license for more details, especially the part labeled "Non-GPL Components in Plugins and Drivers".
-4. Your add-on review request will be commented on by  reviewers. If you would like community feedback on your addon, please join the NVDA-addons list (add link).
+4. Your add-on review request will be commented on by  reviewers. If you would like community feedback on your addon, please [join the NVDA-addons list](https://nvda-addons.groups.io/).
 5. Once the review is finished, an add-on reviewer will approve the add-on, suggest changes, or write a reason why the add-on wasn't accepted at this time.
 6. After this, the reviewer will upload your addon to the addons website. This may take about 24 hours, as we are still dealing with a website designed when NVDA had far fewer resources and have not gotten around to rewriting our website to use modern technologies. If we need more information, we will ask you for it here. This will include download links for the addon, and information on whether you would like your addon listed as a beta version first.
 
