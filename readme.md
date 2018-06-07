@@ -42,3 +42,4 @@ Add-on authors may request one or more of the below deep reviews once the add-on
 * GUI: for add-ons that present dialogs and windows. This review looks at control spacing, window placement and other graphical elements. Note: Review availability is subject to availability of non-blind contributors.
 * Translation: a user who speaks another language will be asked to review add-on messages in hopes of helping you make your messages easier to understand and translate. We will also comment on how to utilize NVDA's translation system.
 * NVDA feature compatibility: for add-ons that may extend NVDA features or add features from newer releases to older NVDA versions.
+* Bug hunting: this is ideal for add-ons requiring high reliability. One or more NvDA add-on experts will probe add-on source code and user experience to uncover potential bugs. (This seems fuzzy. Can this even reliably done)?
