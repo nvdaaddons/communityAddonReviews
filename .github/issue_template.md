@@ -1,23 +1,38 @@
 ### Add-on name
-> A short add-on name for tracking purposes.
+
+Type here.
 
 ### Add-on description
-> A short description of what the add-on is.
+
+Type here.
 
 ### Add-on author
-> Tell us who wrote this add-on.
+
+Type here.
 
 ### Add-on version
-> The version of the add-on being reviewed.
 
-### Add-on link
-> The address of the add-on repository or a download link.
+Type here.
+
+### Add-on repository: Optional
+
+Link here.
 
 ### Last NVDA version tested
-> Tell us which NVDA version did you test this add-on on. It may include release versions and snapshot.
+
+Type here.
 
 ### Additional comments about the add-on
-> Things such as possible feature conflicts with NVDA or another add-on, additional usage notes and so on.
+
+Things such as possible feature conflicts with NVDA or another add-on, additional usage notes and so on.
 
 ### Additional reviews (optional)
-> Would you like the community to review your add-on more deeply once it passes basic review? If yes, tell us what aspects of the add-on should be reviewed more thoroughly, such as coding style, advanced security, or user interface. See the readme for a list of deeper review offerings currently available.
+
+Check all that apply by putting x in the brackets.
+
+* [ ] Coding style: this review is ideal for add-ons that the community believes should become part of the NVDA screen reader in the future. This is because the core code in NVDA is held to a high standard, and your core contribution will be subjected to harsh constructive criticism to ensure quality.
+* [ ] Python 3 compatibility: this is best for add-ons that   will be useful  for a long time (past 2020).
+* [ ] GUI: for add-ons that present dialogs and windows. This review looks at control spacing, window placement and other graphical elements. Note: Review availability is subject to availability of non-blind contributors.
+* [ ] Translation: a user who speaks another language will be asked to review add-on messages in hopes of helping you make your messages easier to understand and translate. We will also comment on how to utilize NVDA's translation system.
+* [ ] NVDA feature compatibility: for add-ons that may extend NVDA features or add features from newer releases to older NVDA versions.
+* [ ] Bug hunting: this is ideal for add-ons requiring high reliability. One or more NvDA add-on experts will probe add-on source code and user experience to uncover potential bugs. (This seems fuzzy. Can this even reliably done)?
